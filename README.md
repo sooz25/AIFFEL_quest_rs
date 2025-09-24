@@ -5,6 +5,7 @@
 
 
 ## 레포지토리 구조도
+```bash
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
